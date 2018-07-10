@@ -35,20 +35,20 @@ kramdown:
 owner:
   name: Mino
   avatar: leonids-logo.png
-  job: "Web publisher"
+  job: "A Free Traveler"
   bio: ""
   email: mhdevil12@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
-  google:
+  google: mhdevil12@gmail.com
     plus: #username
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: https://github.com/minoblog
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
