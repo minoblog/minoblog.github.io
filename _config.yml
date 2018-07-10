@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Mino's blog
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: 아무거나 하고싶은 대로 사는 자의 Blog.
 url: # the base hostname & protocol for your site
 
 
@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Mino
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  job: "Web publisher"
+  bio: ""
+  email: mhdevil12@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
