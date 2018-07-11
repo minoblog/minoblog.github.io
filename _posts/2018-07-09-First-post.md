@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First post"
+title:  "First Post"
 date:   2018-07-09
 categories: [tutorial]
 comments: true
