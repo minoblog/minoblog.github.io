@@ -6,6 +6,7 @@ categories: [study]
 comments: true
 ---
 
+<img src="http://img.podbbang.com/img/pb_m/thumb/x150/13410.png?time=20180714"/>
 <h1>진짜 미국식 영어 종합 정리</h1>
 
 <h2>한국어</h2>
