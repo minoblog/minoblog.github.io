@@ -6,9 +6,9 @@ categories: [study]
 comments: true
 ---
 
-# 비정상 영어 Ep1. 
+비정상 영어 Ep1. 
 
-## 대박나세요 번창하세요. 
+<b> 대박나세요 번창하세요. </b>
 
 김영철 say : Hit the jackpot. 복권에 당첨 될때 쓰는 표현
 
