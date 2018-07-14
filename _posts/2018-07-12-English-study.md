@@ -6,9 +6,9 @@ categories: [study]
 comments: true
 ---
 
-진짜 미국식 영어 종합 정리
+<h1>진짜 미국식 영어 종합 정리</h1>
 
-- 
+<h2>한국어</h2>
 
 Ep1. 대박나세요
 
@@ -65,7 +65,7 @@ Ep26. 새치기 하지마
 Ep27. 식탐이 있어
 
 
-- English
+<h2>English</h2>
 
 Ep1. Congratulations, Keep up the good work
 
