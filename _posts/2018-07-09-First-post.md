@@ -3,6 +3,7 @@ layout: post
 title:  "First Post"
 date:   2018-07-09
 categories: [tutorial]
+author: MINO
 comments: true
 ---
 
