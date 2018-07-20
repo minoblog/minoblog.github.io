@@ -20,3 +20,22 @@ Python
 stylelint
 TSLint
 vscode-icons
+
+Visual studio Code 설정
+
+"editor.tabSize": 4,
+"editor.fontSize": 14,
+"editor.wordWrap": "on",
+"editor.minimap.enabled": true,
+"editor.quickSuggestions": true,
+"workbench.startupEditor": "newUntitledFile",
+"workbench.iconTheme": "vscode-icons",
+"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+
+Program 
+Active File In Status Bar
+beautify
+HTML Snippets
+stylelint
+tslint
+vscode-icons
