@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Visual studio code 확장팩 "
+title: "Visual studio code extend "
 excerpt: "Visual studio code 확장팩"
-categories: [coding]
+categories: [work]
 author: MINO
 comments: true
 image:
