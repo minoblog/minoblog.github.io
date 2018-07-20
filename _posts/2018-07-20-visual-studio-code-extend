@@ -1,0 +1,76 @@
+---
+layout: post
+title: Markup
+excerpt: "Mark up 정리"
+categories: [work]
+comments: true
+author: MINO
+image:
+  feature: https://images.unsplash.com/photo-1531969313305-be8ee2a88948?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f2f53e98cb0b15ec9aebafb3b0664406&auto=format&fit=crop&w=634&q=80
+  credit: Yiran Ding
+  creditlink: https://unsplash.com/photos/5Kls_V5uvwo
+---
+
+1. overflow : hidden은 영역을 잡아주는 것
+overflow: auto, scroll
+​
+2. vendor prefix
+웹 브라우저별 접두사
+-moz, -webkit, -o
+​
+3. css에 @charset "utf-8"
+​
+4. 자식 영역은 형제로 높이를 잡는다. inline-block
+​
+5. hover 에 이미지 변동이 싫다면 형제 값에 변화내용을 넣고 display:none을 block으로 바꾼다.
+​
+6. 줄바꿈 태그
+1) 비아시아언어 word-wrap : normal, break-word
+2) 아시아언어 word-break : break-all
+​
+7. 1) 중국어 간체 zh-Hans
+2) 중국어 번체 zh-Hant
+​
+8. 텍스트 넘칠때
+.ellipsis {
+    width: 200px;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    word-wrap: normal !important;
+    display: block;
+}
+​
+9. button에 a태그 불가
+button에 link 연결 원하면
+onclick = "location.href = '#'"을 넣어야한다.
+​
+10. 텍스트 투명
+color : transparent
+white-space : nowrap
+​
+11. Sass gulp
+gem install sass
+sass --watch
+sass.scss:sass.css
+​
+12. FTP에 업로드시
+용량 주의 600MB?
+500MB
+안넘기도록
+​
+13. CSS less / sass 有
+​
+14. ftp로 intostatic.naver.com의 2001번 포트, passive mode를 선택, ID 사번으로 접속
+​
+15. inline-block은 4px씩 차이가 있으니 주의
+​
+16. 1md = 8h
+0.5md = 4h
+0.25md = 2h
+​
+17.. nth-child
+nth-of-type
+유사하지만,
+nth-of-type은 타입만으로 체크!
