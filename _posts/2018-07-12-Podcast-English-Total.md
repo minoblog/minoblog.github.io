@@ -7,9 +7,11 @@ comments: true
 ---
 
 <h1>진짜 미국식 영어 종합 정리</h1>
-
+<br>
+<br>
 <b>한국어</b>
-
+<br>
+<br>
 Ep1. 대박나세요
 
 Ep2. 나 몸치야
@@ -64,9 +66,11 @@ Ep26. 새치기 하지마
 
 Ep27. 식탐이 있어
 
-
+<br>
+<br>
 <b>English</b>
-
+<br>
+<br>
 Ep1. Congratulations, Keep up the good work
 
 Ep2. I can't dance to save my life
