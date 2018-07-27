@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "진짜 미국식 영어 Ep1"
-excerpt: "A ton of text to test readability."
+excerpt: "English study"
 categories: [study]
 comments: true
 ---
 
-<img style="display:block;" src="http://img.podbbang.com/img/pb_m/thumb/x150/13410.png?time=20180714"/>
 비정상 영어 Ep1. 
 
 <b> 대박나세요 번창하세요. </b>
