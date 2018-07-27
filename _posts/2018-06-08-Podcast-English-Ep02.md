@@ -16,5 +16,5 @@ comments: true
 
 I can't sing to save my life, I can't do math to save my life 등으로 응용 가능 
 
-김영철 say : Put yourself in my shoes / 역지사지라 표현했지만, 내 입장을 들어줘라는 뜻 잘못된 
+김영철 say : Put yourself in my shoes / 역지사지라 표현했지만, 내 입장을 들어줘라는 전혀 다른 
 + 역지사지 Put yourself someone else shoes. 
