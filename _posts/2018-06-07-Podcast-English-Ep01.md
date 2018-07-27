@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "진짜 미국식 영어 Ep1"
+title: "진짜 미국식 영어 Ep01"
 excerpt: "English study"
 categories: [study]
 comments: true
 ---
 
-비정상 영어 Ep1. 
+비정상 영어 Ep01. 
 
 <b> 대박나세요 번창하세요. </b>
 
