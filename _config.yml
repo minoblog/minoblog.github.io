@@ -4,9 +4,9 @@
 ####################################
 #
 title: Mino's blog
-email:
+email: mhdevil12@gmail.com
 description: 아무거나 하고싶은 대로 사는 자의 Blog.
-url: # the base hostname & protocol for your site
+url: https://minoblog.github.io/
 
 
 #
@@ -36,12 +36,12 @@ owner:
   name: Mino
   avatar: leonids-logo.png
   job: "A Free Traveler"
-  bio: ""
+  bio: "일하고 마시고 즐기는 사람의 blog"
   email: mhdevil12@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
-  google: #username
+  google: #mhdevil12
     plus: #username
     analytics:
     verify:
@@ -54,7 +54,7 @@ owner:
   linkedin: #username
   skype: #username
   xing: #username
-  instagram: #username
+  instagram: mhdevil12
   lastfm: #username
   tumblr: #username
   pinterest: #username
