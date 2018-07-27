@@ -1,15 +1,14 @@
 ---
 layout: post
-title: "진짜 미국식 영어"
+title: "진짜 미국식 영어 종합정리"
 excerpt: "A ton of text to test readability."
 categories: [study]
 comments: true
 ---
 
-<img src="http://img.podbbang.com/img/pb_m/thumb/x150/13410.png?time=20180714"/>
 <h1>진짜 미국식 영어 종합 정리</h1>
 
-<h2>한국어</h2>
+<b>한국어</b>
 
 Ep1. 대박나세요
 
@@ -66,7 +65,7 @@ Ep26. 새치기 하지마
 Ep27. 식탐이 있어
 
 
-<h2>English</h2>
+<b>English</b>
 
 Ep1. Congratulations, Keep up the good work
 
