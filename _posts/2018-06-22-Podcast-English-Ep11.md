@@ -14,3 +14,6 @@ comments: true
 
 <b> Let's save the sweets for the kids.</b>
 회사 사람이다보니 좀 더 예의있게 같이 애들을 위해 먹지말자로 순화해서 표현.
+
++ Don't run. / Don't do this. / Don't do that을
+Let's로 표현 &#40;Let's가 들어가면 순해진다.&#41;
