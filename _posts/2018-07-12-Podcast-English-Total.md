@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "진짜 미국식 영어 종합정리"
-excerpt: "A ton of text to test readability."
+excerpt: "English study"
 categories: [study]
 comments: true
 ---
