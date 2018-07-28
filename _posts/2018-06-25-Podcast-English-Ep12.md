@@ -11,8 +11,8 @@ comments: true
 <b>용건만 간단히 해주세요</b>
 
 김영철 say : What's your main topic?&#40;point로 했으면 더 좋다&#41; /
-<br/> What are you talking about? 무슨 말이야? /
-<br/> Please, Talk us. 집중해주세요 
+<br> What are you talking about? 무슨 말이야? /
+<br> Please, Talk us. 집중해주세요 
 
 <b> Just get to the point</b>
 
