@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "진짜 미국식 영어 Ep14"
-excerpt: "English study"
 categories: [study]
 comments: true
 ---
@@ -14,5 +13,5 @@ comments: true
 
 <b>life is tough, Get a helmet.</b>
 
-+ Yawning is contagious. 하품은 전염이 된다. 
-<br> Laughing is contagious. 웃음은 전염이 된다. 
+- Yawning is contagious. 하품은 전염이 된다. <br>
+- Laughing is contagious. 웃음은 전염이 된다. 
