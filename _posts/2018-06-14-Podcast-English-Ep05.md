@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "진짜 미국식 영어 Ep05"
-excerpt: "English study"
 categories: [study]
 comments: true
 ---
