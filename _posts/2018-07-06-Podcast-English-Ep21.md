@@ -11,5 +11,5 @@ comments: true
 
 김영철 say : I have good time with you. / I had blast 과거형이라 이별을 의미할 수 있다. 
 
-<b>Never a dull moment with you.</b>
+<b>Never a dull moment with you.</b> <br>
 dull 지루하다 
