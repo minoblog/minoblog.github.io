@@ -67,11 +67,59 @@ Ep26. 새치기 하지마
 
 Ep27. 식탐이 있어
 
-<br>
-<br>
-<b>English</b>
-<br>
-<br>
+Ep28. 똑바로 해
+
+Ep29. 음식은 입에 맞나요?
+
+Ep30. 급할수록 돌아가라
+
+Ep31. 이건 시식용이에요
+
+Ep32. 제가 한 번 해볼게요
+
+Ep33. 네 정거장 뒤에 내리세요.
+
+Ep34. 작별 인사 (연락하자)
+
+Ep35. 놀리지마
+
+Ep36. 이메일 안부
+
+Ep37. 붕어빵이네
+
+Ep38. 우리 2차갈래?
+
+Ep39. 너 의외다.
+
+Ep40. 아직 시작을 못했어
+
+Ep41. 집들이에 올래요?
+
+Ep42. 감기조심하세요?
+
+Ep43. 찾아오시는데 어려움 없으셨죠?
+
+Ep44. 유통기한이 언제까지에요?
+
+Ep45. 조용히 좀 해주실래요?
+
+Ep46. 많이 먹으면 안좋아 적당히 먹어
+
+Ep47. 폐업했어요, 쉬는 날이에요
+
+Ep48. 도움 필요하면 언제든지 얘기해
+
+Ep49 덕분에 구경 잘했어요.
+
+Ep50 엘레베이터가 고장 났어요, 계단 이용하세요
+
+Ep51 내가 손이 커요 
+
+Ep52 계산은 따로 할게요
+
+Ep53 몇시인지 알고 그러니?
+
+Ep54. 다 재밌으니 꾸준히 보세요
 
 Ep1. Congratulations, Keep up the good work
 
@@ -105,7 +153,7 @@ Ep14 Life's tough get a helmet
 
 Ep15. Excuse me, Those seats are for the elderly.
 
-Ep16. Stop being TAHT kid.
+Ep16. Stop being THAT kid.
 
 Ep17. I'm so sorry, I have something on my mind.
 
@@ -128,3 +176,57 @@ Ep25. I'm going to loose it.
 Ep26. Stop. Cutting in line.
 
 Ep27. I'm obsessed with food.
+
+Ep28. Quick, Whining and get your work done.
+
+Ep29. Is the food alright? How was your lunch?
+
+Ep30. Haste makes waste
+
+Ep31. These are for you to try.
+
+Ep32. I will give it a try
+
+Ep33. Get off in 4stops.
+
+Ep34. It was great working with you, Keep in touch.
+
+Ep35. Stop making fun of me
+
+Ep36. Best regards
+
+Ep37. Wow, You look so much alike.
+
+Ep38. Want to grab another drink with us?
+
+Ep39. You surprise me.
+
+Ep40. Yeah, That hasn't happened yet.
+
+Ep41. I'm having a party at my new house, you should come?
+
+Ep42. Be careful, not to catch a cold.
+
+Ep43. Nice to meet you, Did you find your way here, Okay?
+
+Ep44. How long is this good for?
+
+Ep45. Excuse me, Could you please keep it down?
+
+Ep46. Too bad is not good for you too.
+
+Ep47. It's closed
+
+Ep48. Let me know, If you ever need any help..
+
+Ep49. Thank you so much, That was awesome!
+
+Ep50. The elevator is broken, you have to use the stairs.
+
+Ep51. I just can't help myself.
+
+Ep52. Could we have separate bills, please?
+
+Ep53. Do you have any idea what time is it? 
+
+Ep54. They are all good, I guess you just have to watch them all.
