@@ -121,6 +121,22 @@ Ep53 몇시인지 알고 그러니?
 
 Ep54. 다 재밌으니 꾸준히 보세요
 
+Ep55. 산책할 겸 걸을래요?
+
+Ep56. 곤란한 부탁은 하지 말아주세요
+
+Ep57. 혹시 못 먹는 음식 있어요?
+
+Ep58. 솔직히 말해주세요
+
+Ep59. 그런 의미는 아니었어요
+
+<br>
+<br>
+<b>영어</b>
+<br>
+<br>
+
 Ep1. Congratulations, Keep up the good work
 
 Ep2. I can't dance to save my life
@@ -230,3 +246,13 @@ Ep52. Could we have separate bills, please?
 Ep53. Do you have any idea what time is it? 
 
 Ep54. They are all good, I guess you just have to watch them all.
+
+Ep55. It's really close. Want to walk?
+
+Ep56. I don't know how I feel about that.
+
+Ep57 Are there any foods, you don't eat?
+
+Ep58. Just be straight with me.
+
+Ep59. I'm sorry, I didn't mean it that way.
