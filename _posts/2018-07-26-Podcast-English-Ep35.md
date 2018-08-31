@@ -12,4 +12,4 @@ comments: true
 김영철 say : Stop teasting me / ridiculous 웃긴
 
 <b>Stop making fun of me</b> <br>
-타일러 러쉬 이름으로 놀리면 lash&#40부스럼&#41
+타일러 러쉬 이름으로 놀리면 lash 	&#40;부스럼&#41;
