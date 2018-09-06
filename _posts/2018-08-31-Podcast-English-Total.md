@@ -131,6 +131,16 @@ Ep58. 솔직히 말해주세요
 
 Ep59. 그런 의미는 아니었어요
 
+Ep60. 한귀로 듣고 한 귀로 흘려
+
+Ep61. 다 비벼요 (비빔밥)
+
+Ep62. 한국어 배울만해요?
+
+Ep63. 눈이 너무 높다
+
+Ep64. 선거공약 
+
 <br>
 <br>
 <b>영어</b>
@@ -256,3 +266,13 @@ Ep57 Are there any foods, you don't eat?
 Ep58. Just be straight with me.
 
 Ep59. I'm sorry, I didn't mean it that way.
+
+Ep60. Let it in one ear and out the other.
+
+Ep61. Just mix it all together.
+
+Ep62. How's learing Korean?
+
+Ep63. You set the bar too hight.
+
+Ep64. I'll do my best, Pick me.
