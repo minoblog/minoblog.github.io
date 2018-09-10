@@ -2,7 +2,7 @@
 layout: post
 title: "진짜 미국식 영어 종합정리"
 excerpt: "English study"
-categories: [study]
+categories: [English]
 comments: true
 ---
 
