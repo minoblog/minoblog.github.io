@@ -13,4 +13,5 @@ comments: true
 rush 서두르다 / rash 발진 <br>
 Ta-ta for now 안녕 &#40;작별인사, 반말 친근한 느낌&#41; / CIAO 친구에게 하는 인사 <br>
 
-<b>Best regards</b>
+<b>Best regards</b> <br>
+맨 처음에만 best regards로 추후엔 best 내 이름으로 표기 
