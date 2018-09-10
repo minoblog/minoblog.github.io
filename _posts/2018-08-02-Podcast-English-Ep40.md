@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "진짜 미국식 영어 Ep40"
-categories: [study]
+categories: [English]
 comments: true
 ---
 
