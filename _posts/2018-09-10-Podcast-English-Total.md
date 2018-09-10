@@ -141,6 +141,10 @@ Ep63. 눈이 너무 높다
 
 Ep64. 선거공약 
 
+Ep65. 입에서 살살 녹아
+
+Ep66. 콩깍지가 씌었다
+
 <br>
 <br>
 <b>영어</b>
@@ -276,3 +280,7 @@ Ep62. How's learing Korean?
 Ep63. You set the bar too hight.
 
 Ep64. I'll do my best, Pick me.
+
+Ep65. It melts in your mouth!
+
+Ep66. Beauty is in the eye, of the beholder
