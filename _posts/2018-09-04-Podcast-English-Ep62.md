@@ -14,7 +14,7 @@ comments: true
 
 <b>How's learing Korean?</b> <br>
 
-<br>Tip
+<br>Tip<br>
 영어, 한국은 어순이 반대 = 문장을 거꾸로 쓴다 <br>
 Ex) 한국어 : 입 떼는 방법 없을까요, <br>
 영어: 없을까요 방벙 입 떼는 <br>
