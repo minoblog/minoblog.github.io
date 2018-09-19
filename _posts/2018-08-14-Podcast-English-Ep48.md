@@ -2,6 +2,7 @@
 layout: post
 title: "진짜 미국식 영어 Ep48"
 categories: [English]
+tags: [English]
 comments: true
 ---
 
