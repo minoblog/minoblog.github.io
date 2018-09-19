@@ -9,6 +9,6 @@ comments: true
 
 <b>너 의외다.</b>
 
-김영철 say : 
+김영철 say : You're different guy. / You're totally different. &#40;기분 나쁜 고백&#41;
 
 <b>You surprise me.</b>
