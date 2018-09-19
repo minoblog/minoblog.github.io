@@ -2,7 +2,7 @@
 layout: post
 title: "진짜 미국식 영어 Ep02"
 categories: [English]
-tags: [진짜]
+tags: []
 comments: true
 ---
 
