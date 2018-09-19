@@ -13,4 +13,4 @@ comments: true
 It dependent situation / Closed. / It is&#40;It's로 항상 쓰임&#41; closed. 
 
 <b>It's closed.</b> <br>
-That's good idea.
+That's good idea.도 That is로 발음하지 않는다 
