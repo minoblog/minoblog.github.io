@@ -3,6 +3,7 @@ layout: post
 title: "진짜 미국식 영어 종합정리"
 excerpt: "English study"
 categories: [English]
+tags: [English]
 comments: true
 ---
 
