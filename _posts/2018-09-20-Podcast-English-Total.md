@@ -146,6 +146,21 @@ Ep65. 입에서 살살 녹아
 
 Ep66. 콩깍지가 씌었다
 
+Ep67. 해가 길어졌어
+
+Ep68. 덤 좀 주세요 
+
+Ep69. (뜨거운 탕) 들어와 물 좋아.
+
+Ep70. 물은 셀프입니다.
+
+Ep71. 성은 같은데 가족은 아냐.
+
+Ep72. 맞장구 
+
+Ep73. 고맙지만 그렇게까진 안해도 돼
+
+
 <br>
 <br>
 <b>영어</b>
@@ -285,3 +300,19 @@ Ep64. I'll do my best, Pick me.
 Ep65. It melts in your mouth!
 
 Ep66. Beauty is in the eye, of the beholder
+
+Ep67. The days are getting longer.
+
+Ep68. I love something, please give me extra, if you can?
+
+Ep69. Com on in, the water's fine.
+
+Ep70. You can help yourself to some water over there.
+
+Ep71. Same name, no relation.
+
+Ep72. "Ah, Oh, Aw" 
+
+Ep73. Thanks, but you don't have to do that.
+
+Ep74. It's dangerous, you have to go another way. 
