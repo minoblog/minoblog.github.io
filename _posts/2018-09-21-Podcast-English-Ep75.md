@@ -10,7 +10,7 @@ comments: true
 
 <b>그릇 좀 치워주세요 </b>
 
-김영철 say : Excuse me, This dishes throw away.&#40;던지다, 맛이 없다란 의미$#41; <br>
+김영철 say : Excuse me, This dishes throw away.&#40;던지다, 맛이 없다란 의미&#41; <br>
 Excuse me, Could you set the new table? &#40;다시 상차리는 느낌&#41; <br>
 
 <b> Could you take this away, please? </b> <br>
