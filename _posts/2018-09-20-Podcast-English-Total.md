@@ -162,6 +162,8 @@ Ep73. 고맙지만 그렇게까진 안해도 돼
 
 Ep74. 위험하니 우회하세요
 
+Ep75. 그릇 좀 치워주세요
+
 
 <br>
 <br>
@@ -318,3 +320,5 @@ Ep72. "Ah, Oh, Aw"
 Ep73. Thanks, but you don't have to do that.
 
 Ep74. It's dangerous, you have to go another way. 
+
+Ep75. Could you take this away, please?
