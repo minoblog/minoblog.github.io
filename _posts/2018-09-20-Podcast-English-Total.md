@@ -110,15 +110,15 @@ Ep47. 폐업했어요, 쉬는 날이에요
 
 Ep48. 도움 필요하면 언제든지 얘기해
 
-Ep49 덕분에 구경 잘했어요.
+Ep49. 덕분에 구경 잘했어요.
 
-Ep50 엘레베이터가 고장 났어요, 계단 이용하세요
+Ep50. 엘레베이터가 고장 났어요, 계단 이용하세요
 
-Ep51 내가 손이 커요 
+Ep51. 내가 손이 커요 
 
-Ep52 계산은 따로 할게요
+Ep52. 계산은 따로 할게요
 
-Ep53 몇시인지 알고 그러니?
+Ep53. 몇시인지 알고 그러니?
 
 Ep54. 다 재밌으니 꾸준히 보세요
 
@@ -163,6 +163,8 @@ Ep73. 고맙지만 그렇게까진 안해도 돼
 Ep74. 위험하니 우회하세요
 
 Ep75. 그릇 좀 치워주세요
+
+Ep76. 시간 가는게 아쉽다
 
 
 <br>
@@ -322,3 +324,5 @@ Ep73. Thanks, but you don't have to do that.
 Ep74. It's dangerous, you have to go another way. 
 
 Ep75. Could you take this away, please?
+
+Ep76. Ah Man, Time flies.
