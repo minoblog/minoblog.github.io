@@ -166,6 +166,8 @@ Ep75. 그릇 좀 치워주세요
 
 Ep76. 시간 가는게 아쉽다
 
+Ep77. 나도 여기 신입이야
+
 
 <br>
 <br>
@@ -326,3 +328,5 @@ Ep74. It's dangerous, you have to go another way.
 Ep75. Could you take this away, please?
 
 Ep76. Ah Man, Time flies.
+
+Ep77. I don't know, I'm new here too.
