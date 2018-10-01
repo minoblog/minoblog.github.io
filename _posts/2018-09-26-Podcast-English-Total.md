@@ -168,6 +168,10 @@ Ep76. 시간 가는게 아쉽다
 
 Ep77. 나도 여기 신입이야
 
+Ep78. 엮지마 
+
+Ep79. 너 삐졌니? 
+
 
 <br>
 <br>
@@ -330,3 +334,7 @@ Ep75. Could you take this away, please?
 Ep76. Ah Man, Time flies.
 
 Ep77. I don't know, I'm new here too.
+
+Ep78. Haha, Funny Funny 
+
+Ep79. What's wrong?
