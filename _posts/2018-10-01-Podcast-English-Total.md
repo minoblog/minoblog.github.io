@@ -172,6 +172,8 @@ Ep78. 엮지마
 
 Ep79. 너 삐졌니? 
 
+Ep80. 필요할 때만 날 찾더라? 
+
 
 <br>
 <br>
@@ -338,3 +340,5 @@ Ep77. I don't know, I'm new here too.
 Ep78. Haha, Funny Funny 
 
 Ep79. What's wrong?
+
+Ep80. Well, I haven't heard from you in a while.  
