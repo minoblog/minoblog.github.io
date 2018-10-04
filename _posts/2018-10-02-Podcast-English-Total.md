@@ -178,6 +178,8 @@ Ep81. 금지어야 / 다른 이야기 하자
 
 Ep82. 거기는 쓰레기 버리는 곳이 아니야
 
+Ep83. 이건 어디 거에요?
+
 
 <br>
 <br>
@@ -350,3 +352,5 @@ Ep80. Well, I haven't heard from you in a while.
 Ep81. Let's save this for later. 
 
 Ep82. Excuse me, You can't leave your garbage there. 
+
+Ep83. Who makes this?
