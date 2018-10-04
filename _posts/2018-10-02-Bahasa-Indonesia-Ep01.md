@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "할로 왕초보 인도네시아 첫걸음 Ep01"
-categories: [English]
-tags: [English]
+categories: [Indonesia]
+tags: [Indonesia]
 comments: true
 ---
 
