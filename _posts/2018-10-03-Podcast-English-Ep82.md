@@ -13,4 +13,4 @@ comments: true
 김영철 say : Why don't you eat your garbage? 
 
 <b> Excuse me, You can't leave your garbage there.</b> <br>
-should는 가치 평가의 느낌 / can이 
+should는 가치 평가의 느낌 / can이 좀 더 
