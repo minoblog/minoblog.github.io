@@ -180,6 +180,8 @@ Ep82. 거기는 쓰레기 버리는 곳이 아니야
 
 Ep83. 이건 어디 거에요?
 
+Ep84. 어차피 할 거 지금 해 
+
 
 <br>
 <br>
@@ -354,3 +356,5 @@ Ep81. Let's save this for later.
 Ep82. Excuse me, You can't leave your garbage there. 
 
 Ep83. Who makes this?
+
+Ep84. Might as well, Just get it done now. 
