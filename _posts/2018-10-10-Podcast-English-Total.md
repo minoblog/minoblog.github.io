@@ -188,6 +188,8 @@ Ep86. 너무 목숨 걸지마
 
 Ep87. 문자 무시 당했어
 
+Ep88. 환기 좀 시켜라
+
 <br>
 <br>
 <b>영어</b>
@@ -369,3 +371,5 @@ Ep85. That place isn't as good as used to be.
 Ep86. Don't push yourself too hard, Take it easy.
 
 Ep87. He ghosted on me
+
+Ep88. Air out the house. 
