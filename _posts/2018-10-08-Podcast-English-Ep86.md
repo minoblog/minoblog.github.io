@@ -12,4 +12,4 @@ comments: true
 
 김영철 say : You don't need to work so hard.
 
-<b> Don't push yourself to hard, Take it easy. </b>
+<b> Don't push yourself too hard, Take it easy. </b>
