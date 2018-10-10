@@ -186,6 +186,8 @@ Ep85. 예전 같지 않아
 
 Ep86. 너무 목숨 걸지마
 
+Ep87. 문자 무시 당했어
+
 <br>
 <br>
 <b>영어</b>
@@ -318,7 +320,7 @@ Ep61. Just mix it all together.
 
 Ep62. How's learing Korean?
 
-Ep63. You set the bar too hight.
+Ep63. You set the bar too high.
 
 Ep64. I'll do my best, Pick me.
 
@@ -365,3 +367,5 @@ Ep84. Might as well, Just get it done now.
 Ep85. That place isn't as good as used to be. 
 
 Ep86. Don't push yourself too hard, Take it easy.
+
+Ep87. He ghosted on me
