@@ -184,6 +184,8 @@ Ep84. 어차피 할 거 지금 해
 
 Ep85. 예전 같지 않아
 
+Ep86. 너무 목숨 걸지마
+
 <br>
 <br>
 <b>영어</b>
@@ -361,3 +363,5 @@ Ep83. Who makes this?
 Ep84. Might as well, Just get it done now. 
 
 Ep85. That place isn't as good as used to be. 
+
+Ep86. Don't push yourself to hard, Take it easy.
