@@ -364,4 +364,4 @@ Ep84. Might as well, Just get it done now.
 
 Ep85. That place isn't as good as used to be. 
 
-Ep86. Don't push yourself to hard, Take it easy.
+Ep86. Don't push yourself too hard, Take it easy.
