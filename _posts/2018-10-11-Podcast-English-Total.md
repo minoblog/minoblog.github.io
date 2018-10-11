@@ -190,6 +190,8 @@ Ep87. 문자 무시 당했어
 
 Ep88. 환기 좀 시켜라
 
+Ep89. (기가 막힐 때) 헐 
+
 <br>
 <br>
 <b>영어</b>
@@ -373,3 +375,5 @@ Ep86. Don't push yourself too hard, Take it easy.
 Ep87. He ghosted on me
 
 Ep88. Air out the house. 
+
+
