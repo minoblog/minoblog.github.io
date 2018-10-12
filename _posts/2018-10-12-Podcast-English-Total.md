@@ -192,6 +192,8 @@ Ep88. 환기 좀 시켜라
 
 Ep89. (기가 막힐 때) 헐 
 
+Ep90. 빚갚았다 치지 뭐
+
 <br>
 <br>
 <b>영어</b>
@@ -376,4 +378,6 @@ Ep87. He ghosted on me
 
 Ep88. Air out the house. 
 
+Ep89. Ha ha yeah ~ 
 
+Ep90. Let's call it even
