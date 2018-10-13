@@ -194,6 +194,8 @@ Ep89. (기가 막힐 때) 헐
 
 Ep90. 빚갚았다 치지 뭐
 
+Ep91. 돈 굳었다 
+
 <br>
 <br>
 <b>영어</b>
@@ -381,3 +383,5 @@ Ep88. Air out the house.
 Ep89. Ha ha yeah ~ 
 
 Ep90. Let's call it even
+
+Ep91. It's great you can save your money.
