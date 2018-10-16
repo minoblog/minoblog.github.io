@@ -14,7 +14,7 @@ comments: true
 Why don't you ~ ? / 예전 표현 요즘 잘 안씀 <br> 
 Let's have diiner ~ <br> 
 
-<b> Let's go out for dinner it's on me. </b> <br>
+<b> Let's go out for dinner, it's on me. </b> <br>
 Let's have dinner at my house 내가 집에서 살게 
 기본적으로 한국은 외식을 생각하지만, 
 미국에서는 집에서 먹는 경우가 많아서 go out for dinner라 해야
