@@ -10,7 +10,7 @@ comments: true
 
 인사 표현 (2) 
 
-1. 처음 만났을 때 인사 / 만나서 반갑습ㄴ디ㅏ. 
+1. 처음 만났을 때 인사 / 만나서 반갑습니다.
 1) Saya senang bertemu dengan Anda. / senang 즐거운, 반가운 뒤에 동사가 바로 올 수 있다, bertemu 만나다 
 2) Saya senang berkenalan dengan Anda. / berkenalan 알다, dengan Anda는 생략이 가능하다.  
 
