@@ -198,6 +198,8 @@ Ep91. 돈 굳었다
 
 Ep92. 내가 저녁 쏠게
 
+Ep93. 야식 먹을래? 
+
 <br>
 <br>
 <b>영어</b>
@@ -389,3 +391,5 @@ Ep90. Let's call it even
 Ep91. It's great you can save your money.
 
 Ep92. Let's go out for dinner, it's on me.
+
+Ep93. Want to get something to eat? 
