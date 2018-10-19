@@ -200,6 +200,8 @@ Ep92. 내가 저녁 쏠게
 
 Ep93. 야식 먹을래? 
 
+Ep94. 비행기 띄우지마, 아부 떨지마
+
 <br>
 <br>
 <b>영어</b>
@@ -376,7 +378,7 @@ Ep83. Who makes this?
 
 Ep84. Might as well, Just get it done now. 
 
-Ep85. That place isn't as good as used to be. 
+Ep85. That pOhlace isn't as good as used to be. 
 
 Ep86. Don't push yourself too hard, Take it easy.
 
@@ -393,3 +395,5 @@ Ep91. It's great you can save your money.
 Ep92. Let's go out for dinner, it's on me.
 
 Ep93. Want to get something to eat? 
+
+Ep94. Oh ~ stop, Now you're being too nice.
