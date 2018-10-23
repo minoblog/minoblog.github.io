@@ -202,6 +202,8 @@ Ep93. 야식 먹을래?
 
 Ep94. 비행기 띄우지마, 아부 떨지마
 
+Ep95. 너 참 눈치 없다. 
+
 <br>
 <br>
 <b>영어</b>
@@ -397,3 +399,5 @@ Ep92. Let's go out for dinner, it's on me.
 Ep93. Want to get something to eat? 
 
 Ep94. Oh ~ stop, Now you're being too nice.
+
+Ep95. You're so dense.
