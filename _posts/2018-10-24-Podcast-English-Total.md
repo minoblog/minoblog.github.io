@@ -204,6 +204,8 @@ Ep94. 비행기 띄우지마, 아부 떨지마
 
 Ep95. 너 참 눈치 없다. 
 
+Ep96. 쟤 정말 못
+
 <br>
 <br>
 <b>영어</b>
@@ -401,3 +403,5 @@ Ep93. Want to get something to eat?
 Ep94. Oh ~ stop, Now you're being too nice.
 
 Ep95. You're so dense.
+
+Ep96. There is no stopping her.
