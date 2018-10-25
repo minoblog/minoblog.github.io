@@ -204,7 +204,9 @@ Ep94. 비행기 띄우지마, 아부 떨지마
 
 Ep95. 너 참 눈치 없다. 
 
-Ep96. 쟤 정말 못
+Ep96. 쟤 정말 못말려
+
+Ep97. 해도해도 너무하네 
 
 <br>
 <br>
@@ -405,3 +407,5 @@ Ep94. Oh ~ stop, Now you're being too nice.
 Ep95. You're so dense.
 
 Ep96. There is no stopping her.
+
+Ep97. You just can't get enough, Can you
