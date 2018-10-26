@@ -208,6 +208,8 @@ Ep96. 쟤 정말 못말려
 
 Ep97. 해도해도 너무하네 
 
+Ep98. 고마워 
+
 <br>
 <br>
 <b>영어</b>
@@ -409,3 +411,5 @@ Ep95. You're so dense.
 Ep96. There is no stopping her.
 
 Ep97. You just can't get enough, Can you
+
+Ep98. You don't have to say that. 
