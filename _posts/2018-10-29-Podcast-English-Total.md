@@ -210,6 +210,8 @@ Ep97. 해도해도 너무하네
 
 Ep98. 고마워 
 
+Ep99. 딸기가 좋죠? 
+
 <br>
 <br>
 <b>영어</b>
@@ -413,3 +415,5 @@ Ep96. There is no stopping her.
 Ep97. You just can't get enough, Can you
 
 Ep98. You don't have to say that. 
+
+Ep99. Oh, nice strawberry. 
